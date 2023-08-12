@@ -1,5 +1,6 @@
 # Data-Augmentation-Computer-Vision
 Understanding various ways of Data Augmentation and its application on Image dataset in Computer Vision
+Note: Data augmentation is also one of the Regularisation techniques used in Deep Learning models.
 
 For example:
 
